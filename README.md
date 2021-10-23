@@ -3,7 +3,7 @@
 ### 👋 Hola, Soy Ayelen Alvo :raising_hand: 
 
 ---
-💬
+Sobre mi 💬
 
 :feet: Voy en camino a ser una desarrolladora Web Full Stack ✨.
 
