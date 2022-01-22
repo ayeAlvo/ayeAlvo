@@ -5,7 +5,7 @@
 ---
 Sobre mi 💬
 
-:feet: Voy en camino a ser una desarrolladora Web Full Stack ✨.
+:feet: Desarrolladora Web Full Stack ✨.
 
 ⚡ Me encanta adquirir nuevos conocimientos.
 
