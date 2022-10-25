@@ -11,7 +11,7 @@ Sobre mi 💬
 
 :floppy_disk: Busco poder insertarme laboralmente en este mundo que tanto me gusta.
 
-:point_right: Tengo experiencia en HTML, CSS, Javascript, Node.js, Java y PHP.
+:point_right: Tengo experiencia en Javascript, ReactJs, NodeJs, Sequelize y MySQL.
 
 :rainbow: Mi principal virtud es ser autodidacta.
 
