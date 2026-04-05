@@ -1,33 +1,32 @@
 <div align="center">
-<img src="https://media.giphy.com/media/umYMU8G2ixG5mJBDo5/giphy.gif" width="200" height="200" frameBorder="0" class="giphy-embed" allowFullScreen alt="Imagen codeando chistosa"/>
-<div/>
 
-### 👋 Hola, Soy Ayelen Alvo :raising_hand: Desarrolladora Web
+  <img src="https://media.giphy.com/media/L8K62iTDkzGX6/giphy.gif" width="260" alt="minimal coding gif"/>
 
-<div align="center">
- <a href="https://www.linkedin.com/in/aye-alvo"> 
-  <img src="https://img.shields.io/badge/More Abaout Me-linkedin-blue" /> 
- <a/>
-<div/>   
+  ### 👋 Hola, soy Ayelen Alvo  
+  **Programadora**
+
+  <a href="https://www.linkedin.com/in/aye-alvo">
+    <img src="https://img.shields.io/badge/LinkedIn-@ayealvo-blue?style=for-the-badge&logo=linkedin"/>
+  </a>
+</div>
+ 
    
 ---
 
-<div align="left">    
-Sobre mi 💬
+  ### Sobre mí
 
-<!-- - :feet: Desarrolladora Web Full Stack ✨. -->
+- Interesada en diseño de soluciones, automatización y buenas prácticas.  
+- Experiencia en **JavaScript, React, Node.js, Express, Sequelize, GraphQL y MySQL**.  
+- En aprendizaje continuo orientado a backend, infraestructura y DevOps.  
+- Contacto: **ayealvo@gmail.com**
 
-- ⚡ Me encanta adquirir nuevos conocimientos.
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ayeAlvo&theme=aura_dark)
 
-- :point_right: Tengo experiencia en **Javascript, ReactJs, NodeJs, Sequelize, GraphQL, MySQL**.
 
-- :rainbow: Mi principal virtud es ser autodidacta.
+
+### Lenguajes y herramientas
   
-- :floppy_disk: Creés que podemos ser un buen equipo? Contáctame **ayealvo@gmail.com**
-
-  <div/>
-  
- <h3> Lenguajes y Herramientas  :wrench: <h3/>
+ <p>
   <img src="https://github.com/devicons/devicon/blob/master/icons/figma/figma-original.svg" alt="Figma Logo" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="HTML Logo" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="CSS Logo" width="40" height="40"/>
@@ -41,16 +40,13 @@ Sobre mi 💬
   <img src="https://github.com/devicons/devicon/blob/master/icons/trello/trello-plain.svg" alt="Trello Logo" width="40" height="40"/> 
   <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" alt="npm Logo" width="40" height="40"/>
   <img src="https://github.com/devicons/devicon/blob/master/icons/heroku/heroku-original.svg" alt="Heroku Logo" width="40" height="40"/>
-   
----   
+ <p/> 
 
- [![GitHub](http://github-readme-streak-stats.herokuapp.com?user=ayeAlvo&theme=tokyonight&date_format=j%20M%5B%20Y%5D)](https://git.io/streak-stats)  
-   
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ayeAlvo&show_icons=true&theme=tokyonight)
-   
-   [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ayeAlvo&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
-   
-   
+### My GitHub Data
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ayeAlvo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ayeAlvo&theme=aura_dark)   
+![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ayeAlvo&theme=aura_dark)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ayeAlvo&theme=aura_dark&utcOffset=-3)
 <!--
 **ayeAlvo/ayeAlvo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
